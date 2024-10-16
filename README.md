@@ -1,4 +1,4 @@
 ## live link :https://mahdihassango.github.io/Tea-House/
 
 
- <img src="."Mainpage.png">
+ <img src="."/Mainpage.png">
